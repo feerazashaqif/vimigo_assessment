@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an assessment for applying a job in Vimigo,
 
-A few resources to get you started if this is your first Flutter project:
+Package used:
+- provider (ensure better app performace)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Please take a look at my custom painter for path drawing and its animation. Thank you!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](vimigo.gif)
+
+[Click here to download this app (release version)](https://drive.google.com/file/d/1IUa1rA5Uw3TU22SE7O6cpy3wI643WdrD/view?usp=sharing)
